@@ -16,5 +16,4 @@
 
 <TodoItem />
 <TodoItem />
-<TodoItem />
 
